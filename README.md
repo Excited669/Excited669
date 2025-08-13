@@ -2,7 +2,7 @@
 
 A passionate developer who codes by day ☼ and dreams of building impactful products by night ☾
 
-💻 Full-Stack Developer in the making
+💻 *Full-Stack Developer* in the making
 🎯 Preparing for my first internship/job in IT
 🚀 Working on side projects and exploring monetization ideas
 
@@ -11,7 +11,7 @@ A passionate developer who codes by day ☼ and dreams of building impactful pro
 🌍 Passionate about: creating apps and services that truly help people
 💡 My projects & ideas:
 
-🎥 MoodFlix — mood-based movie recommendations
+🎥 Mellot - bot converter in telegram
 
 🖼 AI-powered photo generation service for e-commerce
 
